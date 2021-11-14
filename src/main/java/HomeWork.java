@@ -15,11 +15,11 @@ public class HomeWork {
             animals[i].animalInfo();
             animals[i].run(500);
             animals[i].sail(500);
-        } }
 
         }
+        {System.out.println("\nВсего в массиве животных : " + animals.length );} }
 
-
+        }
 
 
 
