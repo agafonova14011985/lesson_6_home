@@ -21,7 +21,7 @@ public class  Cat extends Animal {
     @Override
     public void sail(int l) {
 
-        if (l > 100)
+        if (l > 0)
     {System.out.printf(name + "   не может проплыть " + l + "   метров");}
     else
     {System.out.printf(name + "  может проплыть " + l + "   метров"); }
